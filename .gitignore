@@ -1,0 +1,15 @@
+### OSX ###
+.DS_Store
+
+*.pyc
+__pycache__
+/plots
+*~
+/data
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#sublime
+*.sublime-project
+*.sublime-workspace
