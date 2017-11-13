@@ -9,7 +9,8 @@ Technical description of FTE style can be found [here](https://github.com/matplo
 Example of [FTE graphs](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
 
 
-* bachelor_degree_female_USA_1970to2011
+* bachelor_degree_female_USA_1970to2011:
+
     This describes the percentage of Bachelors conferred to women in the US from 1970 to 2011.
     Dataset has been compiled by [Randal Olson](http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/)
 
@@ -26,7 +27,7 @@ Installation
 
 bachelor_degree_female_USA_1970to2011
 ----------------------
-# [data file](http://www.randalolson.com/wp-content/uploads/percent-bachelors-degrees-women-usa.csv)
+* [data file](http://www.randalolson.com/wp-content/uploads/percent-bachelors-degrees-women-usa.csv)
 * Run:
     * `python female_bachelor_degree`
     (make sure the directory is `bachelor_degree_female_USA_1970to2011`)
