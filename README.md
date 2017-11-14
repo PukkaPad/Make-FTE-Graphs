@@ -1,4 +1,4 @@
-Making FiveThirtyEight(FTP) Graphs with Python
+Making FiveThirtyEight (FTP) Graphs with Python
 -----------------------
 
 Data visualization.
@@ -21,6 +21,7 @@ Installation
 * Clone this repo to your computer.
 * Get into the folder using `cd making-FTP-Graphs`.
 * Run `mkdir data`.
+* Run `mkdir plots`.
 * Switch into the `data` directory using `cd data`.
 * Download the data files into the `data` directory.
 * Switch back into the `making-FTP-Graphs` directory using `cd ..`
