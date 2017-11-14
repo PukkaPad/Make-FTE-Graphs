@@ -1,4 +1,4 @@
-Making FiveThirtyEight (FTP) Graphs with Python
+Making FiveThirtyEight (FTE) Graphs with Python
 -----------------------
 
 Data visualization.
