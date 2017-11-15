@@ -14,6 +14,13 @@ Example of [FTE graphs](https://fivethirtyeight.com/features/the-52-best-and-wei
     This describes the percentage of Bachelors conferred to women in the US from 1970 to 2011.
     Dataset has been compiled by [Randal Olson](http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/)
 
+
+* UK_crime_data_2010_2016:
+
+    This describes the occurrence of reported crime to Metropolitan Police (UK)from December 2010 to December 2016.
+    Data is provided by  [Data.Police.UK](https://data.police.uk/data/)
+
+
 Installation
 ----------------------
 
@@ -32,6 +39,11 @@ bachelor_degree_female_USA_1970to2011
 * Run:
     * `python female_bachelor_degree`
     (make sure the directory is `bachelor_degree_female_USA_1970to2011`)
+
+
+UK_crime_data_2010_2016
+----------------------
+* Jupyter notebook
 
 
 To do
