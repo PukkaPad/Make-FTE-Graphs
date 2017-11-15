@@ -8,6 +8,7 @@ Technical description of FTE style can be found [here](https://github.com/matplo
 
 Example of [FTE graphs](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
 
+Projects:
 
 * bachelor_degree_female_USA_1970to2011:
 
